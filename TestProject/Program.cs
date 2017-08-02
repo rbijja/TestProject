@@ -11,6 +11,7 @@ namespace TestProject
         static void Main(string[] args)
         {
             Console.WriteLine("Rocky - This is your First test project of console application.");
+            Console.ReadKey();
         }
     }
 }
